@@ -1,10 +1,9 @@
 {
-  "name": "socketio-example",
+  "name": "chat-app",
   "version": "0.0.1",
-  "description": "Example code to demonstrate `socket.io` with a static `express` server",
   "main": "server.js",
   "repository": "",
-  "author": "Andy Novocin",
+  "author": "Duke Park",
   "dependencies": {
     "async": "~0.2.8",
     "express": "~3.2.4",
